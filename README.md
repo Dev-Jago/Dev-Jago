@@ -1,25 +1,41 @@
-# Hiago Martins
+<h1 align="center"> Jago's Keyboard</h1>
+<h2 align="center">Uma versão customizada do Virtual Keyboard da DIO.</h2>
+
+<p>É com muita satisfação que apresento para vocês minha versão customizada desse instrumento virtual desenvolvido originalmente pela Digital Inovation One</p> <br>
+Clique [aqui](https://dev-jago.github.io/Custom_Virtual_Keyboard/) para executar aplicação.
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Visual Studio Code](<https://code.visualstudio.com/>)
+- [Node.js](<https://nodejs.org/en/>)
+- [JavaScript](<https://developer.mozilla.org/pt-BR/docs/Web/JavaScript>)
+- [HTML](<https://developer.mozilla.org/pt-BR/docs/Learn/HTML>)
+- [CSS](<https://developer.mozilla.org/pt-BR/docs/Learn/CSS>)
+
+A aplicação foi inspirada nas extensões VSTs ultilizadas pelos engenheiros de áudio nas Digital Audio Workstations (DAWs), e apresenta os seguintes recursos. <br>
+
+### 🎀 Features: <br>
+<ol>
+<li>User Interface customizada para melhor estética do instrumento.</li>
+<li>Plano de fundo temático.</li>
+<li>Toggle switch para esconder/exibir os atalhos do teclado.</li>
+<li>Slider de volume integrado.</li>
+<li>Logo customizada no instrumento.</li>
+</ol>
+
 ## Conecte-se Comigo
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doomed_to_exist_/?hl=en) 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Jago)
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:devj4g0@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:devj4g0@gmail.com) <br>
 
-## Minhas Habilidades
+Link para o [repositório](https://github.com/Dev-Jago/Custom_Virtual_Keyboard.git) do GitHub: https://github.com/Dev-Jago/Custom_Virtual_Keyboard.git
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Fiquem a vontade para contribuírem com novas ideias, dar fork e se gostarem do projeto, deixem uma ⭐. <br>
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Jago&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title-true&hide-stars)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-Jago&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Jago&repo=desafio-dio-primeiro-repositorio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Dev-Jago/desafio-dio-primeiro-repositorio.git)
-
-
-## Meus Troféus
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jago-dev&theme=onedark)](https://github-profile-trophy.vercel.app/?username=Dev-Jago&theme=juicyfresh&no-frame=true)
+### Créditos
+---
+Essa aplicação foi desenvolvida como parte de um projeto educacional do curso Desenvolvimento de Jogos por Potência Tech Ifood.
