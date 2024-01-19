@@ -15,7 +15,7 @@
 
 <p align="left">
   <h2> ABOUT ME ☠️</h2> <br>
----
+--------------------------------------------------------------------------------------------------------------------
   <p>  I am a front-end developer with a keen interest in Artificial Intelligence solutions.</p>
   <p>  I am currently pursuing further education in Front-end development, as well as Artificial Intelligence Solutions. I also enjoy coding games for fun!<p>
 </p>
@@ -50,7 +50,7 @@
 
 </p> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jago&theme=great-gatsby&show_icons=true)
 
 <br>
 
